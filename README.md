@@ -1,6 +1,31 @@
-# React Crash Course 2021 (Task Tracker App)
+# Tracker
 
-This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
+
+![image]()
+
+## How It's Made:
+
+**Tech used:**  
+
+## Optimizations:
+(optional)
+
+
+
+## Lessons Learned:
+
+
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Instant Cafe:** https://github.com/noravgs/instant-cafe
+
+**Mix It Up:** https://github.com/noravgs/mix-it-up-API
+
+**Concert Todo:** https://github.com/noravgs/concert-todo
+
+---
 
 ## Usage
 
